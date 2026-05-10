@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="A pure frontend crypto trend dashboard powered by public Checkonchain chart pages."
+    />
+    <title>Crypto Trend Command Center</title>
+    <link rel="preconnect" href="https://charts.checkonchain.com" />
+    <link rel="stylesheet" href="assets/styles.css" />
+    <script src="https://unpkg.com/lucide@latest/dist/umd/lucide.min.js" defer></script>
+    <script src="data/charts.js" defer></script>
+    <script src="assets/app.js" defer></script>
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="sidebar" aria-label="指標分類">
+        <div class="brand">
+          <span class="brand-mark">C</span>
+          <div>
+            <strong>Crypto Trend</strong>
+            <span>Command Center</span>
+          </div>
+        </div>
+
+        <label class="field-label" for="searchInput">搜尋指標</label>
+        <div class="search-box">
+          <i data-lucide="search"></i>
+          <input id="searchInput" type="search" placeholder="MVRV, ETF, SOPR..." autocomplete="off" />
+        </div>
+
+        <div class="quick-packs" aria-label="快速策略包">
+          <button class="pack active" data-pack="all">全部</button>
+          <button class="pack" data-pack="cycle">週期</button>
+          <button class="pack" data-pack="flows">資金</button>
+          <button class="pack" data-pack="risk">風險</button>
+          <button class="pack" data-pack="derivatives">衍生品</button>
+        </div>
+
+        <div id="categoryList" class="category-list"></div>
+      </aside>
+
+      <main class="workspace">
+        <header class="topbar">
+          <div>
+            <p class="eyebrow">Bitcoin on-chain, derivatives, ETF and treasury metrics</p>
+            <h1>加密貨幣趨勢分析 Dashboard</h1>
+          </div>
+          <div class="top-actions">
+            <button id="copyLinkBtn" class="icon-button" title="複製目前圖表連結" aria-label="複製目前圖表連結">
+              <i data-lucide="link"></i>
+            </button>
+            <a
+              class="icon-button"
+              href="https://charts.checkonchain.com/"
+              target="_blank"
+              rel="noopener"
+              title="開啟 Checkonchain"
+              aria-label="開啟 Checkonchain"
+            >
+              <i data-lucide="external-link"></i>
+            </a>
+          </div>
+        </header>
+
+        <section class="stat-grid" aria-label="Dashboard statistics">
+          <div class="stat">
+            <span id="chartCount">0</span>
+            <small>Charts Indexed</small>
+          </div>
+          <div class="stat">
+            <span id="categoryCount">0</span>
+            <small>Metric Families</small>
+          </div>
+          <div class="stat">
+            <span id="watchCount">0</span>
+            <small>Watchlist</small>
+          </div>
+          <div class="stat">
+            <span>Live</span>
+            <small>Remote Chart Pages</small>
+          </div>
+        </section>
+
+        <section class="viewer-panel">
+          <div class="viewer-header">
+            <div>
+              <p id="activeCategory" class="eyebrow">Pricing Models</p>
+              <h2 id="activeTitle">Loading chart...</h2>
+            </div>
+            <div class="viewer-actions">
+              <button id="watchBtn" class="control-button">
+                <i data-lucide="star"></i>
+                <span>Watch</span>
+              </button>
+              <button id="compareBtn" class="control-button primary">
+                <i data-lucide="layout-grid"></i>
+                <span>Compare</span>
+              </button>
+            </div>
+          </div>
+          <iframe id="chartFrame" title="Selected Checkonchain chart" loading="lazy"></iframe>
+        </section>
+
+        <section class="compare-panel">
+          <div class="section-heading">
+            <div>
+              <p class="eyebrow">Multi-chart view</p>
+              <h2>比較工作區</h2>
+            </div>
+            <button id="clearCompareBtn" class="text-button">清空</button>
+          </div>
+          <div id="compareGrid" class="compare-grid"></div>
+        </section>
+      </main>
+
+      <aside class="library" aria-label="指標清單">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">Metric Library</p>
+            <h2>指標庫</h2>
+          </div>
+          <span id="resultCount" class="result-count">0</span>
+        </div>
+        <div id="chartList" class="chart-list"></div>
+      </aside>
+    </div>
+  </body>
+</html>
