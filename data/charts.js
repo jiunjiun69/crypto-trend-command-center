@@ -9,7 +9,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "demand est demand inflowcomparison 2020-03-12"
   },
   {
-    "id": "inflowcomparison-2022-11-09-389",
+    "id": "inflowcomparison-2022-11-09-383",
     "title": "FTX",
     "category": "Capital Flows",
     "family": "demand",
@@ -18,7 +18,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "ftx demand inflowcomparison 2022-11-09"
   },
   {
-    "id": "inflowcomparison-2015-01-01-388",
+    "id": "inflowcomparison-2015-01-01-382",
     "title": "Inflow Comparison 2015",
     "category": "Capital Flows",
     "family": "demand",
@@ -27,7 +27,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "inflow comparison 2015 demand inflowcomparison 2015-01-01"
   },
   {
-    "id": "inflowcomparison-2024-01-01-390",
+    "id": "inflowcomparison-2024-01-01-384",
     "title": "Inflow Comparison 2024",
     "category": "Capital Flows",
     "family": "demand",
@@ -54,7 +54,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "market cap gained per dollar demand marketcapgainedperdollar"
   },
   {
-    "id": "multipliereffect-387",
+    "id": "multipliereffect-381",
     "title": "Multiplier",
     "category": "Capital Flows",
     "family": "demand",
@@ -90,7 +90,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "sold 2022+ demand sold lthspent 2022-11-09"
   },
   {
-    "id": "hodlernetpositionchange-437",
+    "id": "hodlernetpositionchange-431",
     "title": "Absolute",
     "category": "Cointime Economics",
     "family": "cointime",
@@ -306,7 +306,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "vaulting rate cointime vaultingrate"
   },
   {
-    "id": "capitalrotation-cagr-491",
+    "id": "capitalrotation-cagr-485",
     "title": "Cagr",
     "category": "Cross Asset",
     "family": "capitalrotation",
@@ -333,7 +333,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "calmar ratio comparison capitalrotation capitalrotation calmarratio tradfi"
   },
   {
-    "id": "marketcap-divergence-484",
+    "id": "marketcap-divergence-478",
     "title": "Divergence",
     "category": "Cross Asset",
     "family": "capitalrotation",
@@ -342,7 +342,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "divergence capitalrotation marketcap divergence"
   },
   {
-    "id": "capitalrotation-netposchange-386",
+    "id": "capitalrotation-netposchange-380",
     "title": "Netposchange",
     "category": "Cross Asset",
     "family": "capitalrotation",
@@ -351,7 +351,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "netposchange capitalrotation capitalrotation netposchange"
   },
   {
-    "id": "marketcap-bars-485",
+    "id": "marketcap-bars-479",
     "title": "Rankings",
     "category": "Cross Asset",
     "family": "capitalrotation",
@@ -378,7 +378,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "sharpe, sortino, calmar ratios (1yr) capitalrotation capitalrotation sharpe sortino calmar btc"
   },
   {
-    "id": "sharperatio-btc-489",
+    "id": "sharperatio-btc-483",
     "title": "Sharperatio BTC",
     "category": "Cross Asset",
     "family": "capitalrotation",
@@ -396,7 +396,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "sortino ratio comparison capitalrotation capitalrotation sortinoratio tradfi"
   },
   {
-    "id": "sortinoratio-btc-490",
+    "id": "sortinoratio-btc-484",
     "title": "Sortinoratio BTC",
     "category": "Cross Asset",
     "family": "capitalrotation",
@@ -990,7 +990,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "volume derivatives derivatives options volume byexchange 0"
   },
   {
-    "id": "mstr-mvrv-sth-vwap-271",
+    "id": "mstr-mvrv-sth-vwap-265",
     "title": "155d VWAP",
     "category": "Entities",
     "family": "entities",
@@ -999,7 +999,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "155d vwap entities mstr mvrv sth vwap"
   },
   {
-    "id": "mstr-aviv-bands-258",
+    "id": "mstr-aviv-bands-252",
     "title": "AVIV Valuation Model",
     "category": "Entities",
     "family": "entities",
@@ -1008,7 +1008,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "aviv valuation model entities mstr aviv bands"
   },
   {
-    "id": "btctc-balance-0-285",
+    "id": "btctc-balance-0-279",
     "title": "Balance [BTC]",
     "category": "Entities",
     "family": "entities",
@@ -1017,7 +1017,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "balance [btc] entities btctc balance 0"
   },
   {
-    "id": "btctc-balance-1-286",
+    "id": "btctc-balance-1-280",
     "title": "Balance [USD]",
     "category": "Entities",
     "family": "entities",
@@ -1026,7 +1026,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "balance [usd] entities btctc balance 1"
   },
   {
-    "id": "mstr-stacking-permonth-0-m-264",
+    "id": "mstr-stacking-permonth-0-m-258",
     "title": "BTC 1M",
     "category": "Entities",
     "family": "entities",
@@ -1035,7 +1035,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "btc 1m entities mstr stacking permonth 0 m"
   },
   {
-    "id": "mstr-stacking-permonth-0-q-265",
+    "id": "mstr-stacking-permonth-0-q-259",
     "title": "BTC 1Q",
     "category": "Entities",
     "family": "entities",
@@ -1044,7 +1044,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "btc 1q entities mstr stacking permonth 0 q"
   },
   {
-    "id": "mstr-accumulation-259",
+    "id": "mstr-accumulation-253",
     "title": "BTC Balance",
     "category": "Entities",
     "family": "entities",
@@ -1053,7 +1053,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "btc balance entities mstr accumulation"
   },
   {
-    "id": "mstr-yield-263",
+    "id": "mstr-yield-257",
     "title": "BTC Yield per Share",
     "category": "Entities",
     "family": "entities",
@@ -1062,7 +1062,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "btc yield per share entities mstr yield"
   },
   {
-    "id": "btctc-price-292",
+    "id": "btctc-price-286",
     "title": "BTCtc Price",
     "category": "Entities",
     "family": "entities",
@@ -1071,7 +1071,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "btctc price entities btctc price"
   },
   {
-    "id": "mstr-capitalraised-260",
+    "id": "mstr-capitalraised-254",
     "title": "Capital Raised",
     "category": "Entities",
     "family": "entities",
@@ -1080,7 +1080,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "capital raised entities mstr capitalraised"
   },
   {
-    "id": "btctc-realisedcap-1-289",
+    "id": "btctc-realisedcap-1-283",
     "title": "Cost Basis",
     "category": "Entities",
     "family": "entities",
@@ -1089,7 +1089,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "cost basis entities btctc realisedcap 1"
   },
   {
-    "id": "btctc-daystocover-bar-296",
+    "id": "btctc-daystocover-bar-290",
     "title": "D2C Bars",
     "category": "Entities",
     "family": "entities",
@@ -1098,7 +1098,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "d2c bars entities btctc daystocover bar"
   },
   {
-    "id": "btctc-daystocover-297",
+    "id": "btctc-daystocover-291",
     "title": "Days2Cover",
     "category": "Entities",
     "family": "entities",
@@ -1107,7 +1107,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "days2cover entities btctc daystocover"
   },
   {
-    "id": "btctc-daystoreplace-298",
+    "id": "btctc-daystoreplace-292",
     "title": "Days2Replace",
     "category": "Entities",
     "family": "entities",
@@ -1116,7 +1116,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "days2replace entities btctc daystoreplace"
   },
   {
-    "id": "mstr-derivative-volatility-275",
+    "id": "mstr-derivative-volatility-269",
     "title": "Derivs",
     "category": "Entities",
     "family": "entities",
@@ -1125,7 +1125,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "derivs entities mstr derivative volatility"
   },
   {
-    "id": "mstr-drawdown-278",
+    "id": "mstr-drawdown-272",
     "title": "Drawdown",
     "category": "Entities",
     "family": "entities",
@@ -1134,7 +1134,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "drawdown entities mstr drawdown"
   },
   {
-    "id": "btctc-drawdown-293",
+    "id": "btctc-drawdown-287",
     "title": "Drawdown",
     "category": "Entities",
     "family": "entities",
@@ -1143,7 +1143,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "drawdown entities btctc drawdown"
   },
   {
-    "id": "mstr-valuation-0-256",
+    "id": "mstr-valuation-0-250",
     "title": "Market Cap",
     "category": "Entities",
     "family": "entities",
@@ -1161,7 +1161,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "market size entities demandflow comparison 30"
   },
   {
-    "id": "btctc-marketcap-287",
+    "id": "btctc-marketcap-281",
     "title": "MCap",
     "category": "Entities",
     "family": "entities",
@@ -1170,7 +1170,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "mcap entities btctc marketcap"
   },
   {
-    "id": "btctc-mnav-bar-294",
+    "id": "btctc-mnav-bar-288",
     "title": "mNAV",
     "category": "Entities",
     "family": "entities",
@@ -1179,7 +1179,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "mnav entities btctc mnav bar"
   },
   {
-    "id": "btctc-mnav-295",
+    "id": "btctc-mnav-289",
     "title": "mNAV Hist",
     "category": "Entities",
     "family": "entities",
@@ -1188,7 +1188,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "mnav hist entities btctc mnav"
   },
   {
-    "id": "mstr-realised-volatility-273",
+    "id": "mstr-realised-volatility-267",
     "title": "MSTR Vol",
     "category": "Entities",
     "family": "entities",
@@ -1197,7 +1197,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "mstr vol entities mstr realised volatility"
   },
   {
-    "id": "mstr-realised-volatility-vsbtc-274",
+    "id": "mstr-realised-volatility-vsbtc-268",
     "title": "MSTR vs BTC",
     "category": "Entities",
     "family": "entities",
@@ -1206,7 +1206,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "mstr vs btc entities mstr realised volatility vsbtc"
   },
   {
-    "id": "mstr-msty-283",
+    "id": "mstr-msty-277",
     "title": "MSTY",
     "category": "Entities",
     "family": "entities",
@@ -1215,7 +1215,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "msty entities mstr msty"
   },
   {
-    "id": "msty-strk-strf-yield-msty-284",
+    "id": "msty-strk-strf-yield-msty-278",
     "title": "MSTY Yield",
     "category": "Entities",
     "family": "entities",
@@ -1224,7 +1224,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "msty yield entities msty strk strf yield msty"
   },
   {
-    "id": "mstr-mvrv-270",
+    "id": "mstr-mvrv-264",
     "title": "MVRV",
     "category": "Entities",
     "family": "entities",
@@ -1233,7 +1233,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "mvrv entities mstr mvrv"
   },
   {
-    "id": "preferred-prices-280",
+    "id": "preferred-prices-274",
     "title": "Pref Prices",
     "category": "Entities",
     "family": "entities",
@@ -1242,7 +1242,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "pref prices entities preferred prices"
   },
   {
-    "id": "preferred-yields-281",
+    "id": "preferred-yields-275",
     "title": "Pref Yields",
     "category": "Entities",
     "family": "entities",
@@ -1251,7 +1251,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "pref yields entities preferred yields"
   },
   {
-    "id": "mstr-premium-drawdown-279",
+    "id": "mstr-premium-drawdown-273",
     "title": "Premium Drawdown",
     "category": "Entities",
     "family": "entities",
@@ -1260,7 +1260,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "premium drawdown entities mstr premium drawdown"
   },
   {
-    "id": "mstr-price-volume-0-268",
+    "id": "mstr-price-volume-0-262",
     "title": "Price Volume 0",
     "category": "Entities",
     "family": "entities",
@@ -1269,7 +1269,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "price volume 0 entities mstr price volume 0"
   },
   {
-    "id": "mstr-price-volume-1-269",
+    "id": "mstr-price-volume-1-263",
     "title": "Price Volume 1",
     "category": "Entities",
     "family": "entities",
@@ -1278,7 +1278,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "price volume 1 entities mstr price volume 1"
   },
   {
-    "id": "btctc-realisedcap-0-288",
+    "id": "btctc-realisedcap-0-282",
     "title": "RCap",
     "category": "Entities",
     "family": "entities",
@@ -1287,7 +1287,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "rcap entities btctc realisedcap 0"
   },
   {
-    "id": "btctc-stackingrates-m-291",
+    "id": "btctc-stackingrates-m-285",
     "title": "Stacking 1M",
     "category": "Entities",
     "family": "entities",
@@ -1296,7 +1296,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "stacking 1m entities btctc stackingrates m"
   },
   {
-    "id": "btctc-stackingrates-w-290",
+    "id": "btctc-stackingrates-w-284",
     "title": "Stacking 1W",
     "category": "Entities",
     "family": "entities",
@@ -1305,7 +1305,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "stacking 1w entities btctc stackingrates w"
   },
   {
-    "id": "strkfd-summary-bars-282",
+    "id": "strkfd-summary-bars-276",
     "title": "Summary",
     "category": "Entities",
     "family": "entities",
@@ -1314,7 +1314,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "summary entities strkfd summary bars"
   },
   {
-    "id": "mstr-supplyinprofit-261",
+    "id": "mstr-supplyinprofit-255",
     "title": "Supply Profit/Loss",
     "category": "Entities",
     "family": "entities",
@@ -1323,7 +1323,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "supply profit/loss entities mstr supplyinprofit"
   },
   {
-    "id": "mstr-unrealisedinprofit-262",
+    "id": "mstr-unrealisedinprofit-256",
     "title": "Unrealised PnL",
     "category": "Entities",
     "family": "entities",
@@ -1332,7 +1332,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "unrealised pnl entities mstr unrealisedinprofit"
   },
   {
-    "id": "mstr-stacking-permonth-1-m-266",
+    "id": "mstr-stacking-permonth-1-m-260",
     "title": "USD 1M",
     "category": "Entities",
     "family": "entities",
@@ -1341,7 +1341,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "usd 1m entities mstr stacking permonth 1 m"
   },
   {
-    "id": "mstr-stacking-permonth-1-q-267",
+    "id": "mstr-stacking-permonth-1-q-261",
     "title": "USD 1Q",
     "category": "Entities",
     "family": "entities",
@@ -1350,7 +1350,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "usd 1q entities mstr stacking permonth 1 q"
   },
   {
-    "id": "mstr-valuation-1-257",
+    "id": "mstr-valuation-1-251",
     "title": "Valuation 1",
     "category": "Entities",
     "family": "entities",
@@ -1359,7 +1359,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "valuation 1 entities mstr valuation 1"
   },
   {
-    "id": "mstr-vsbtc-sthmvrv-272",
+    "id": "mstr-vsbtc-sthmvrv-266",
     "title": "vs BTC",
     "category": "Entities",
     "family": "entities",
@@ -1368,7 +1368,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "vs btc entities mstr vsbtc sthmvrv"
   },
   {
-    "id": "mstr-performance-byyear-btc-277",
+    "id": "mstr-performance-byyear-btc-271",
     "title": "vs BTC",
     "category": "Entities",
     "family": "entities",
@@ -1377,7 +1377,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "vs btc entities mstr performance byyear btc"
   },
   {
-    "id": "mstr-performance-byyear-usd-276",
+    "id": "mstr-performance-byyear-usd-270",
     "title": "vs USD",
     "category": "Entities",
     "family": "entities",
@@ -1548,7 +1548,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "stacked etfs aggregate volume stacked"
   },
   {
-    "id": "binarycdd-393",
+    "id": "binarycdd-387",
     "title": "BCDD",
     "category": "Lifespan",
     "family": "lifespan",
@@ -1557,7 +1557,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "bcdd lifespan binarycdd"
   },
   {
-    "id": "binarycdd-zscore-394",
+    "id": "binarycdd-zscore-388",
     "title": "Binarycdd Zscore",
     "category": "Lifespan",
     "family": "lifespan",
@@ -1566,7 +1566,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "binarycdd zscore lifespan binarycdd zscore"
   },
   {
-    "id": "cdd-bycohort-0-399",
+    "id": "cdd-bycohort-0-393",
     "title": "by Cohort",
     "category": "Lifespan",
     "family": "lifespan",
@@ -1575,7 +1575,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "by cohort lifespan cdd bycohort 0"
   },
   {
-    "id": "cdd-397",
+    "id": "cdd-391",
     "title": "CDD",
     "category": "Lifespan",
     "family": "lifespan",
@@ -1584,7 +1584,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "cdd lifespan cdd"
   },
   {
-    "id": "cdd90-lthsth-398",
+    "id": "cdd90-lthsth-392",
     "title": "CDD-90",
     "category": "Lifespan",
     "family": "lifespan",
@@ -1593,7 +1593,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "cdd-90 lifespan cdd90 lthsth"
   },
   {
-    "id": "coinday-nvtrvt-400",
+    "id": "coinday-nvtrvt-394",
     "title": "Coinday NVTrvt",
     "category": "Lifespan",
     "family": "lifespan",
@@ -1602,7 +1602,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "coinday nvtrvt lifespan coinday nvtrvt"
   },
   {
-    "id": "binarycdd-zscorelth-396",
+    "id": "binarycdd-zscorelth-390",
     "title": "LTH",
     "category": "Lifespan",
     "family": "lifespan",
@@ -1611,7 +1611,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "lth lifespan binarycdd zscorelth"
   },
   {
-    "id": "coinday-nvtrvtlth-402",
+    "id": "coinday-nvtrvtlth-396",
     "title": "LTH",
     "category": "Lifespan",
     "family": "lifespan",
@@ -1620,7 +1620,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "lth lifespan coinday nvtrvtlth"
   },
   {
-    "id": "reserverisk-392",
+    "id": "reserverisk-386",
     "title": "Reserverisk",
     "category": "Lifespan",
     "family": "lifespan",
@@ -1629,7 +1629,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "reserverisk lifespan reserverisk"
   },
   {
-    "id": "binarycdd-zscoresth-395",
+    "id": "binarycdd-zscoresth-389",
     "title": "STH",
     "category": "Lifespan",
     "family": "lifespan",
@@ -1638,7 +1638,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "sth lifespan binarycdd zscoresth"
   },
   {
-    "id": "coinday-nvtrvtsth-401",
+    "id": "coinday-nvtrvtsth-395",
     "title": "STH",
     "category": "Lifespan",
     "family": "lifespan",
@@ -1647,7 +1647,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "sth lifespan coinday nvtrvtsth"
   },
   {
-    "id": "vddmultiple-391",
+    "id": "vddmultiple-385",
     "title": "Vddmultiple",
     "category": "Lifespan",
     "family": "lifespan",
@@ -1656,7 +1656,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "vddmultiple lifespan vddmultiple"
   },
   {
-    "id": "hashrate-change-454",
+    "id": "hashrate-change-448",
     "title": "30d Change",
     "category": "Mining Metrics",
     "family": "mining",
@@ -1719,7 +1719,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "hashprice mining hashprice"
   },
   {
-    "id": "miner-revenue-455",
+    "id": "miner-revenue-449",
     "title": "Miner Revenue",
     "category": "Mining Metrics",
     "family": "mining",
@@ -1755,7 +1755,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "puell multiple mining puellmultiple"
   },
   {
-    "id": "inscriptions-tx-0-412",
+    "id": "inscriptions-tx-0-406",
     "title": "Absolute",
     "category": "Network Activity",
     "family": "adoption",
@@ -1764,7 +1764,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "absolute adoption inscriptions tx 0"
   },
   {
-    "id": "inscriptions-fee-0-416",
+    "id": "inscriptions-fee-0-410",
     "title": "Absolute",
     "category": "Network Activity",
     "family": "adoption",
@@ -1773,7 +1773,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "absolute adoption inscriptions fee 0"
   },
   {
-    "id": "inscriptions-size-0-419",
+    "id": "inscriptions-size-0-413",
     "title": "Absolute",
     "category": "Network Activity",
     "family": "adoption",
@@ -1809,7 +1809,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "coinday value destroyed momentum adoption coinblockvaluedestroyed momentum"
   },
   {
-    "id": "inscriptions-tx-2-414",
+    "id": "inscriptions-tx-2-408",
     "title": "Cumulative",
     "category": "Network Activity",
     "family": "adoption",
@@ -1818,7 +1818,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "cumulative adoption inscriptions tx 2"
   },
   {
-    "id": "inscriptions-fee-2-418",
+    "id": "inscriptions-fee-2-412",
     "title": "Cumulative",
     "category": "Network Activity",
     "family": "adoption",
@@ -1827,7 +1827,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "cumulative adoption inscriptions fee 2"
   },
   {
-    "id": "inscriptions-size-2-421",
+    "id": "inscriptions-size-2-415",
     "title": "Cumulative",
     "category": "Network Activity",
     "family": "adoption",
@@ -1863,7 +1863,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "fee revenue z-score ribbon adoption feerevenue zscore"
   },
   {
-    "id": "inscriptions-vs-addresses-415",
+    "id": "inscriptions-vs-addresses-409",
     "title": "Impact On Addresses",
     "category": "Network Activity",
     "family": "adoption",
@@ -1872,7 +1872,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "impact on addresses adoption inscriptions vs addresses"
   },
   {
-    "id": "inscriptions-tx-1-413",
+    "id": "inscriptions-tx-1-407",
     "title": "Relative",
     "category": "Network Activity",
     "family": "adoption",
@@ -1881,7 +1881,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "relative adoption inscriptions tx 1"
   },
   {
-    "id": "inscriptions-fee-1-417",
+    "id": "inscriptions-fee-1-411",
     "title": "Relative",
     "category": "Network Activity",
     "family": "adoption",
@@ -1890,7 +1890,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "relative adoption inscriptions fee 1"
   },
   {
-    "id": "inscriptions-size-1-420",
+    "id": "inscriptions-size-1-414",
     "title": "Relative",
     "category": "Network Activity",
     "family": "adoption",
@@ -1926,7 +1926,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "transfer volumes [usd] adoption transfer volumes usd"
   },
   {
-    "id": "transfervolume-momentum-403",
+    "id": "transfervolume-momentum-397",
     "title": "Transfervolume Momentum",
     "category": "Network Activity",
     "family": "adoption",
@@ -1935,7 +1935,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "transfervolume momentum adoption transfervolume momentum"
   },
   {
-    "id": "transfervolume-momentum-usd-404",
+    "id": "transfervolume-momentum-usd-398",
     "title": "Transfervolume Momentum USD",
     "category": "Network Activity",
     "family": "adoption",
@@ -1944,7 +1944,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "transfervolume momentum usd adoption transfervolume momentum usd"
   },
   {
-    "id": "urpd-heatmap-diff-14-373",
+    "id": "urpd-heatmap-diff-14-367",
     "title": "14d",
     "category": "Premium",
     "family": "premium",
@@ -1953,7 +1953,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "14d premium urpd heatmap diff 14"
   },
   {
-    "id": "urpd-heatmap-diff-30-374",
+    "id": "urpd-heatmap-diff-30-368",
     "title": "30d",
     "category": "Premium",
     "family": "premium",
@@ -1962,7 +1962,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "30d premium urpd heatmap diff 30"
   },
   {
-    "id": "urpd-heatmap-diff-7-372",
+    "id": "urpd-heatmap-diff-7-366",
     "title": "7d",
     "category": "Premium",
     "family": "premium",
@@ -1971,40 +1971,13 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "7d premium urpd heatmap diff 7"
   },
   {
-    "id": "urpd-heatmap-diff-90-375",
+    "id": "urpd-heatmap-diff-90-369",
     "title": "90d",
     "category": "Premium",
     "family": "premium",
     "url": "https://charts.checkonchain.com/btconchain/premium/urpd_heatmap_diff_90/urpd_heatmap_diff_90_light.html",
     "sourcePath": "btconchain/premium/urpd_heatmap_diff_90/urpd_heatmap_diff_90_light.html",
     "keywords": "90d premium urpd heatmap diff 90"
-  },
-  {
-    "id": "options-heatmap-calls-open-interest-250",
-    "title": "Call Heatmap",
-    "category": "Premium",
-    "family": "premium",
-    "url": "https://charts.checkonchain.com/btconchain/premium/options_heatmap_calls_open_interest/options_heatmap_calls_open_interest_light.html",
-    "sourcePath": "btconchain/premium/options_heatmap_calls_open_interest/options_heatmap_calls_open_interest_light.html",
-    "keywords": "call heatmap premium options heatmap calls open interest"
-  },
-  {
-    "id": "options-heatmap-calls-diff-30-252",
-    "title": "Calls 30d",
-    "category": "Premium",
-    "family": "premium",
-    "url": "https://charts.checkonchain.com/btconchain/premium/options_heatmap_calls_diff_30/options_heatmap_calls_diff_30_light.html",
-    "sourcePath": "btconchain/premium/options_heatmap_calls_diff_30/options_heatmap_calls_diff_30_light.html",
-    "keywords": "calls 30d premium options heatmap calls diff 30"
-  },
-  {
-    "id": "options-heatmap-calls-diff-90-253",
-    "title": "Calls 90d",
-    "category": "Premium",
-    "family": "premium",
-    "url": "https://charts.checkonchain.com/btconchain/premium/options_heatmap_calls_diff_90/options_heatmap_calls_diff_90_light.html",
-    "sourcePath": "btconchain/premium/options_heatmap_calls_diff_90/options_heatmap_calls_diff_90_light.html",
-    "keywords": "calls 90d premium options heatmap calls diff 90"
   },
   {
     "id": "hodlers-dashboard-125",
@@ -2016,7 +1989,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "hodlers dashboard premium hodlers dashboard"
   },
   {
-    "id": "urpd-heatmap-supply-lth-369",
+    "id": "urpd-heatmap-supply-lth-363",
     "title": "LTH",
     "category": "Premium",
     "family": "premium",
@@ -2034,7 +2007,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "oi price premium price ibit options open interest"
   },
   {
-    "id": "price-urpd-366",
+    "id": "price-urpd-360",
     "title": "Price Urpd",
     "category": "Premium",
     "family": "premium",
@@ -2043,34 +2016,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "price urpd premium price urpd"
   },
   {
-    "id": "options-heatmap-puts-open-interest-251",
-    "title": "Put Heatmap",
-    "category": "Premium",
-    "family": "premium",
-    "url": "https://charts.checkonchain.com/btconchain/premium/options_heatmap_puts_open_interest/options_heatmap_puts_open_interest_light.html",
-    "sourcePath": "btconchain/premium/options_heatmap_puts_open_interest/options_heatmap_puts_open_interest_light.html",
-    "keywords": "put heatmap premium options heatmap puts open interest"
-  },
-  {
-    "id": "options-heatmap-puts-diff-30-254",
-    "title": "Puts 30d",
-    "category": "Premium",
-    "family": "premium",
-    "url": "https://charts.checkonchain.com/btconchain/premium/options_heatmap_puts_diff_30/options_heatmap_puts_diff_30_light.html",
-    "sourcePath": "btconchain/premium/options_heatmap_puts_diff_30/options_heatmap_puts_diff_30_light.html",
-    "keywords": "puts 30d premium options heatmap puts diff 30"
-  },
-  {
-    "id": "options-heatmap-puts-diff-90-255",
-    "title": "Puts 90d",
-    "category": "Premium",
-    "family": "premium",
-    "url": "https://charts.checkonchain.com/btconchain/premium/options_heatmap_puts_diff_90/options_heatmap_puts_diff_90_light.html",
-    "sourcePath": "btconchain/premium/options_heatmap_puts_diff_90/options_heatmap_puts_diff_90_light.html",
-    "keywords": "puts 90d premium options heatmap puts diff 90"
-  },
-  {
-    "id": "urpd-heatmap-realized-value-370",
+    "id": "urpd-heatmap-realized-value-364",
     "title": "Realised",
     "category": "Premium",
     "family": "premium",
@@ -2079,7 +2025,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "realised premium urpd heatmap realized value"
   },
   {
-    "id": "urpd-heatmap-supply-sth-368",
+    "id": "urpd-heatmap-supply-sth-362",
     "title": "STH",
     "category": "Premium",
     "family": "premium",
@@ -2088,7 +2034,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "sth premium urpd heatmap supply sth"
   },
   {
-    "id": "urpd-heatmap-supply-367",
+    "id": "urpd-heatmap-supply-361",
     "title": "Supply",
     "category": "Premium",
     "family": "premium",
@@ -2097,7 +2043,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "supply premium urpd heatmap supply"
   },
   {
-    "id": "urpd-heatmap-unrealized-value-371",
+    "id": "urpd-heatmap-unrealized-value-365",
     "title": "Unrealised PnL",
     "category": "Premium",
     "family": "premium",
@@ -2340,7 +2286,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "mvrv pricing topping bands mvrv 730"
   },
   {
-    "id": "consecutivedays-mvrv-377",
+    "id": "consecutivedays-mvrv-371",
     "title": "MVRV",
     "category": "Pricing Models",
     "family": "pricing",
@@ -2457,7 +2403,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "quantiles realizedprice sth pricing quantiles realizedprice sth"
   },
   {
-    "id": "pricing-realisedcap-385",
+    "id": "pricing-realisedcap-379",
     "title": "RCap",
     "category": "Pricing Models",
     "family": "pricing",
@@ -2475,7 +2421,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "realized price and mvrv pricing pricing mvrv bands"
   },
   {
-    "id": "consecutivedays-sopr-379",
+    "id": "consecutivedays-sopr-373",
     "title": "SOPR",
     "category": "Pricing Models",
     "family": "pricing",
@@ -2493,7 +2439,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "sth-mvrv pricing topping bands mvrv sth 730"
   },
   {
-    "id": "consecutivedays-mvrv-sth-378",
+    "id": "consecutivedays-mvrv-sth-372",
     "title": "STH-MVRV",
     "category": "Pricing Models",
     "family": "pricing",
@@ -2502,7 +2448,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "sth-mvrv pricing consecutivedays mvrv sth"
   },
   {
-    "id": "consecutivedays-sopr-sth-380",
+    "id": "consecutivedays-sopr-sth-374",
     "title": "STH-SOPR",
     "category": "Pricing Models",
     "family": "pricing",
@@ -2547,7 +2493,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "yearlycostbasis pricing pricing yearlycostbasis"
   },
   {
-    "id": "pctunrealisedprofit-lth-315",
+    "id": "pctunrealisedprofit-lth-309",
     "title": "% LTH",
     "category": "Profit / Loss",
     "family": "unrealised",
@@ -2556,7 +2502,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "% lth unrealised pctunrealisedprofit lth"
   },
   {
-    "id": "pctunrealisedprofit-all-313",
+    "id": "pctunrealisedprofit-all-307",
     "title": "% Market",
     "category": "Profit / Loss",
     "family": "unrealised",
@@ -2565,7 +2511,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "% market unrealised pctunrealisedprofit all"
   },
   {
-    "id": "pctunrealisedprofit-sth-314",
+    "id": "pctunrealisedprofit-sth-308",
     "title": "% STH",
     "category": "Profit / Loss",
     "family": "unrealised",
@@ -2574,7 +2520,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "% sth unrealised pctunrealisedprofit sth"
   },
   {
-    "id": "mvrv-gradient-180-331",
+    "id": "mvrv-gradient-180-325",
     "title": "180D",
     "category": "Profit / Loss",
     "family": "unrealised",
@@ -2583,7 +2529,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "180d unrealised mvrv gradient 180"
   },
   {
-    "id": "aviv-gradient-180-336",
+    "id": "aviv-gradient-180-330",
     "title": "180D",
     "category": "Profit / Loss",
     "family": "unrealised",
@@ -2592,7 +2538,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "180d unrealised aviv gradient 180"
   },
   {
-    "id": "mvrv-gradient-30-329",
+    "id": "mvrv-gradient-30-323",
     "title": "30D",
     "category": "Profit / Loss",
     "family": "unrealised",
@@ -2601,7 +2547,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "30d unrealised mvrv gradient 30"
   },
   {
-    "id": "aviv-gradient-30-334",
+    "id": "aviv-gradient-30-328",
     "title": "30D",
     "category": "Profit / Loss",
     "family": "unrealised",
@@ -2610,7 +2556,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "30d unrealised aviv gradient 30"
   },
   {
-    "id": "mvrv-gradient-360-332",
+    "id": "mvrv-gradient-360-326",
     "title": "360D",
     "category": "Profit / Loss",
     "family": "unrealised",
@@ -2619,7 +2565,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "360d unrealised mvrv gradient 360"
   },
   {
-    "id": "aviv-gradient-360-337",
+    "id": "aviv-gradient-360-331",
     "title": "360D",
     "category": "Profit / Loss",
     "family": "unrealised",
@@ -2628,7 +2574,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "360d unrealised aviv gradient 360"
   },
   {
-    "id": "mvrv-gradient-90-330",
+    "id": "mvrv-gradient-90-324",
     "title": "90D",
     "category": "Profit / Loss",
     "family": "unrealised",
@@ -2637,7 +2583,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "90d unrealised mvrv gradient 90"
   },
   {
-    "id": "aviv-gradient-90-335",
+    "id": "aviv-gradient-90-329",
     "title": "90D",
     "category": "Profit / Loss",
     "family": "unrealised",
@@ -2646,7 +2592,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "90d unrealised aviv gradient 90"
   },
   {
-    "id": "unrealised-profitloss-0-308",
+    "id": "unrealised-profitloss-0-302",
     "title": "Absolute",
     "category": "Profit / Loss",
     "family": "unrealised",
@@ -2655,7 +2601,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "absolute unrealised unrealised profitloss 0"
   },
   {
-    "id": "mvrv-gradient-all-333",
+    "id": "mvrv-gradient-all-327",
     "title": "All",
     "category": "Profit / Loss",
     "family": "unrealised",
@@ -2664,7 +2610,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "all unrealised mvrv gradient all"
   },
   {
-    "id": "aviv-gradient-all-338",
+    "id": "aviv-gradient-all-332",
     "title": "All",
     "category": "Profit / Loss",
     "family": "unrealised",
@@ -2718,7 +2664,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "bollinger unrealised sthmvrv bollingerbands"
   },
   {
-    "id": "realisedpnl-2-318",
+    "id": "realisedpnl-2-312",
     "title": "Both",
     "category": "Profit / Loss",
     "family": "realised",
@@ -2754,7 +2700,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "cohort unrealised nupl bycohort"
   },
   {
-    "id": "realisedpnl-bycohort-2-321",
+    "id": "realisedpnl-bycohort-2-315",
     "title": "Cohort",
     "category": "Profit / Loss",
     "family": "realised",
@@ -2772,7 +2718,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "cost basis unrealised sthcostbasis delta"
   },
   {
-    "id": "topheavy-drawdowns-bull-pctsupplyinprofit-342",
+    "id": "topheavy-drawdowns-bull-pctsupplyinprofit-336",
     "title": "Drawdowns",
     "category": "Profit / Loss",
     "family": "unrealised",
@@ -2799,7 +2745,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "hist z unrealised histogram bullbear aviv zscore"
   },
   {
-    "id": "histogram-bullbear-mvrv-lth-zscore-299",
+    "id": "histogram-bullbear-mvrv-lth-zscore-293",
     "title": "Hist-LTH",
     "category": "Profit / Loss",
     "family": "unrealised",
@@ -2835,7 +2781,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "histogram: sopr realised histogram sopr"
   },
   {
-    "id": "realisedpnl-bycohort-0-319",
+    "id": "realisedpnl-bycohort-0-313",
     "title": "Loss",
     "category": "Profit / Loss",
     "family": "realised",
@@ -2844,7 +2790,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "loss realised realisedpnl bycohort 0"
   },
   {
-    "id": "sellsideriskratio-lth-307",
+    "id": "sellsideriskratio-lth-301",
     "title": "LTH",
     "category": "Profit / Loss",
     "family": "realised",
@@ -2853,7 +2799,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "lth realised sellsideriskratio lth"
   },
   {
-    "id": "unrealised-profitloss-ratio-lth-312",
+    "id": "unrealised-profitloss-ratio-lth-306",
     "title": "LTH",
     "category": "Profit / Loss",
     "family": "unrealised",
@@ -2862,7 +2808,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "lth unrealised unrealised profitloss ratio lth"
   },
   {
-    "id": "realisedpnl-bycohort-bands-lth-324",
+    "id": "realisedpnl-bycohort-bands-lth-318",
     "title": "LTH",
     "category": "Profit / Loss",
     "family": "realised",
@@ -2871,7 +2817,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "lth realised realisedpnl bycohort bands lth"
   },
   {
-    "id": "realisedpnl-ratio-lth-328",
+    "id": "realisedpnl-ratio-lth-322",
     "title": "LTH",
     "category": "Profit / Loss",
     "family": "realised",
@@ -2880,7 +2826,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "lth realised realisedpnl ratio lth"
   },
   {
-    "id": "pctsupplyinprofit-lth-352",
+    "id": "pctsupplyinprofit-lth-346",
     "title": "LTH",
     "category": "Profit / Loss",
     "family": "unrealised",
@@ -2889,7 +2835,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "lth unrealised pctsupplyinprofit lth"
   },
   {
-    "id": "topheavy-supplyinloss-lth-344",
+    "id": "topheavy-supplyinloss-lth-338",
     "title": "LTH in Loss",
     "category": "Profit / Loss",
     "family": "unrealised",
@@ -2898,7 +2844,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "lth in loss unrealised topheavy supplyinloss lth"
   },
   {
-    "id": "sopr-lth-zscore-302",
+    "id": "sopr-lth-zscore-296",
     "title": "LTH Zscore",
     "category": "Profit / Loss",
     "family": "realised",
@@ -2907,7 +2853,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "lth zscore realised sopr lth zscore"
   },
   {
-    "id": "histogram-sopr-bullbear-sopr-lth-z-305",
+    "id": "histogram-sopr-bullbear-sopr-lth-z-299",
     "title": "LTH-Hist",
     "category": "Profit / Loss",
     "family": "realised",
@@ -2934,7 +2880,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "lth-mvrv momentum unrealised mvrv momentum lth"
   },
   {
-    "id": "signal-realisedpnl-momentum-all-339",
+    "id": "signal-realisedpnl-momentum-all-333",
     "title": "Market Signal",
     "category": "Profit / Loss",
     "family": "realised",
@@ -3042,7 +2988,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "p/l realised realisedpnl ratio sth"
   },
   {
-    "id": "pctsupplyinprofit-all-350",
+    "id": "pctsupplyinprofit-all-344",
     "title": "Pctsupplyinprofit All",
     "category": "Profit / Loss",
     "family": "unrealised",
@@ -3051,7 +2997,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "pctsupplyinprofit all unrealised pctsupplyinprofit all"
   },
   {
-    "id": "realisedpnl-bycohort-1-320",
+    "id": "realisedpnl-bycohort-1-314",
     "title": "Profit",
     "category": "Profit / Loss",
     "family": "realised",
@@ -3069,7 +3015,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "realised cap 30-day change realised rcapnetposchange"
   },
   {
-    "id": "realisedpnl-0-316",
+    "id": "realisedpnl-0-310",
     "title": "Realisedpnl 0",
     "category": "Profit / Loss",
     "family": "realised",
@@ -3078,7 +3024,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "realisedpnl 0 realised realisedpnl 0"
   },
   {
-    "id": "realisedpnl-1-317",
+    "id": "realisedpnl-1-311",
     "title": "Realisedpnl 1",
     "category": "Profit / Loss",
     "family": "realised",
@@ -3087,7 +3033,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "realisedpnl 1 realised realisedpnl 1"
   },
   {
-    "id": "realisedpnl-bycohort-bands-322",
+    "id": "realisedpnl-bycohort-bands-316",
     "title": "Realisedpnl Bycohort Bands",
     "category": "Profit / Loss",
     "family": "realised",
@@ -3096,7 +3042,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "realisedpnl bycohort bands realised realisedpnl bycohort bands"
   },
   {
-    "id": "realisedpnl-ratio-all-327",
+    "id": "realisedpnl-ratio-all-321",
     "title": "Realisedpnl Ratio All",
     "category": "Profit / Loss",
     "family": "realised",
@@ -3105,7 +3051,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "realisedpnl ratio all realised realisedpnl ratio all"
   },
   {
-    "id": "unrealised-profitloss-1-309",
+    "id": "unrealised-profitloss-1-303",
     "title": "Relative",
     "category": "Profit / Loss",
     "family": "unrealised",
@@ -3123,7 +3069,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "sell-side risk vs implied vol realised sellsideriskratio all impliedvol"
   },
   {
-    "id": "seller-exhaustion-constant-supply-376",
+    "id": "seller-exhaustion-constant-supply-370",
     "title": "Seller Exhaustion",
     "category": "Profit / Loss",
     "family": "unrealised",
@@ -3141,7 +3087,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "sellsideriskratio all realised sellsideriskratio all"
   },
   {
-    "id": "signal-realisedpnl-momentum-lth-341",
+    "id": "signal-realisedpnl-momentum-lth-335",
     "title": "Sig-LTH",
     "category": "Profit / Loss",
     "family": "realised",
@@ -3150,7 +3096,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "sig-lth realised signal realisedpnl momentum lth"
   },
   {
-    "id": "signal-realisedpnl-momentum-sth-340",
+    "id": "signal-realisedpnl-momentum-sth-334",
     "title": "Sig-STH",
     "category": "Profit / Loss",
     "family": "realised",
@@ -3168,7 +3114,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "sopr realised sopr"
   },
   {
-    "id": "histogram-sopr-bullbear-sopr-z-303",
+    "id": "histogram-sopr-bullbear-sopr-z-297",
     "title": "SOPR Bullbear SOPR Z",
     "category": "Profit / Loss",
     "family": "realised",
@@ -3186,7 +3132,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "sth unrealised mvrv sth"
   },
   {
-    "id": "sellsideriskratio-sth-306",
+    "id": "sellsideriskratio-sth-300",
     "title": "STH",
     "category": "Profit / Loss",
     "family": "realised",
@@ -3195,7 +3141,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "sth realised sellsideriskratio sth"
   },
   {
-    "id": "unrealised-profitloss-ratio-sth-311",
+    "id": "unrealised-profitloss-ratio-sth-305",
     "title": "STH",
     "category": "Profit / Loss",
     "family": "unrealised",
@@ -3204,7 +3150,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "sth unrealised unrealised profitloss ratio sth"
   },
   {
-    "id": "realisedpnl-bycohort-bands-sth-323",
+    "id": "realisedpnl-bycohort-bands-sth-317",
     "title": "STH",
     "category": "Profit / Loss",
     "family": "realised",
@@ -3213,7 +3159,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "sth realised realisedpnl bycohort bands sth"
   },
   {
-    "id": "pctsupplyinprofit-sth-351",
+    "id": "pctsupplyinprofit-sth-345",
     "title": "STH",
     "category": "Profit / Loss",
     "family": "unrealised",
@@ -3222,7 +3168,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "sth unrealised pctsupplyinprofit sth"
   },
   {
-    "id": "topheavy-supplyinloss-sth-343",
+    "id": "topheavy-supplyinloss-sth-337",
     "title": "STH in Loss",
     "category": "Profit / Loss",
     "family": "unrealised",
@@ -3240,7 +3186,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "sth zscore unrealised mvrv sth zscore"
   },
   {
-    "id": "sopr-sth-zscore-301",
+    "id": "sopr-sth-zscore-295",
     "title": "STH Zscore",
     "category": "Profit / Loss",
     "family": "realised",
@@ -3249,7 +3195,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "sth zscore realised sopr sth zscore"
   },
   {
-    "id": "histogram-sopr-bullbear-sopr-sth-z-304",
+    "id": "histogram-sopr-bullbear-sopr-sth-z-298",
     "title": "STH-Hist",
     "category": "Profit / Loss",
     "family": "realised",
@@ -3303,7 +3249,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "the sth indicator unrealised sthsoprmvrv indicator"
   },
   {
-    "id": "unrealised-profitloss-ratio-all-310",
+    "id": "unrealised-profitloss-ratio-all-304",
     "title": "Unrealised Profitloss Ratio All",
     "category": "Profit / Loss",
     "family": "unrealised",
@@ -3312,7 +3258,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "unrealised profitloss ratio all unrealised unrealised profitloss ratio all"
   },
   {
-    "id": "topheavy-unrealisedloss-lth-347",
+    "id": "topheavy-unrealisedloss-lth-341",
     "title": "URL LTH",
     "category": "Profit / Loss",
     "family": "unrealised",
@@ -3321,7 +3267,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "url lth unrealised topheavy unrealisedloss lth"
   },
   {
-    "id": "topheavy-unrealisedloss-345",
+    "id": "topheavy-unrealisedloss-339",
     "title": "URL Market",
     "category": "Profit / Loss",
     "family": "unrealised",
@@ -3330,7 +3276,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "url market unrealised topheavy unrealisedloss"
   },
   {
-    "id": "topheavy-unrealisedloss-sth-346",
+    "id": "topheavy-unrealisedloss-sth-340",
     "title": "URL STH",
     "category": "Profit / Loss",
     "family": "unrealised",
@@ -3339,7 +3285,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "url sth unrealised topheavy unrealisedloss sth"
   },
   {
-    "id": "sopr-zscore-300",
+    "id": "sopr-zscore-294",
     "title": "Zscore",
     "category": "Profit / Loss",
     "family": "realised",
@@ -3348,7 +3294,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "zscore realised sopr zscore"
   },
   {
-    "id": "stablecoin-dominance-supply-0-494",
+    "id": "stablecoin-dominance-supply-0-488",
     "title": "Absolute",
     "category": "Stablecoins",
     "family": "stablecoins",
@@ -3357,7 +3303,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "absolute stablecoins stablecoin dominance supply 0"
   },
   {
-    "id": "stablecoin-dominance-txcnt-0-497",
+    "id": "stablecoin-dominance-txcnt-0-491",
     "title": "Absolute",
     "category": "Stablecoins",
     "family": "stablecoins",
@@ -3366,7 +3312,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "absolute stablecoins stablecoin dominance txcnt 0"
   },
   {
-    "id": "stablecoins-ssr-oscillator-500",
+    "id": "stablecoins-ssr-oscillator-494",
     "title": "Oscillator",
     "category": "Stablecoins",
     "family": "stablecoins",
@@ -3375,7 +3321,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "oscillator stablecoins stablecoins ssr oscillator"
   },
   {
-    "id": "stablecoin-dominance-supply-1-495",
+    "id": "stablecoin-dominance-supply-1-489",
     "title": "Relative",
     "category": "Stablecoins",
     "family": "stablecoins",
@@ -3384,7 +3330,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "relative stablecoins stablecoin dominance supply 1"
   },
   {
-    "id": "stablecoin-dominance-txcnt-1-498",
+    "id": "stablecoin-dominance-txcnt-1-492",
     "title": "Relative",
     "category": "Stablecoins",
     "family": "stablecoins",
@@ -3393,7 +3339,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "relative stablecoins stablecoin dominance txcnt 1"
   },
   {
-    "id": "stablecoins-ssr-channel-501",
+    "id": "stablecoins-ssr-channel-495",
     "title": "RSI Channel",
     "category": "Stablecoins",
     "family": "stablecoins",
@@ -3402,7 +3348,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "rsi channel stablecoins stablecoins ssr channel"
   },
   {
-    "id": "stablecoins-ssr-499",
+    "id": "stablecoins-ssr-493",
     "title": "SSR",
     "category": "Stablecoins",
     "family": "stablecoins",
@@ -3411,7 +3357,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "ssr stablecoins stablecoins ssr"
   },
   {
-    "id": "stablecoin-netposchange-30-496",
+    "id": "stablecoin-netposchange-30-490",
     "title": "Stablecoins",
     "category": "Stablecoins",
     "family": "stablecoins",
@@ -3420,7 +3366,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "stablecoins stablecoins stablecoin netposchange 30"
   },
   {
-    "id": "distribution-shrimpcrabfish-30-452",
+    "id": "distribution-shrimpcrabfish-30-446",
     "title": "30-day",
     "category": "Supply Dynamics",
     "family": "supply",
@@ -3429,7 +3375,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "30-day supply distribution shrimpcrabfish 30"
   },
   {
-    "id": "lthnetposchange-1-436",
+    "id": "lthnetposchange-1-430",
     "title": "30d [%]",
     "category": "Supply Dynamics",
     "family": "supply",
@@ -3438,7 +3384,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "30d [%] supply lthnetposchange 1"
   },
   {
-    "id": "distribution-shrimpcrabfish-90-453",
+    "id": "distribution-shrimpcrabfish-90-447",
     "title": "90-day",
     "category": "Supply Dynamics",
     "family": "supply",
@@ -3447,7 +3393,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "90-day supply distribution shrimpcrabfish 90"
   },
   {
-    "id": "breakdown-pnl-353",
+    "id": "breakdown-pnl-347",
     "title": "Abs",
     "category": "Supply Dynamics",
     "family": "supply",
@@ -3456,7 +3402,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "abs supply breakdown pnl"
   },
   {
-    "id": "breakdown-lthsth-pnl-0-348",
+    "id": "breakdown-lthsth-pnl-0-342",
     "title": "Absolute",
     "category": "Supply Dynamics",
     "family": "supply",
@@ -3465,7 +3411,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "absolute supply breakdown lthsth pnl 0"
   },
   {
-    "id": "distribution-waves-0-428",
+    "id": "distribution-waves-0-422",
     "title": "Absolute",
     "category": "Supply Dynamics",
     "family": "supply",
@@ -3474,7 +3420,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "absolute supply distribution waves 0"
   },
   {
-    "id": "year-waves-0-429",
+    "id": "year-waves-0-423",
     "title": "Absolute",
     "category": "Supply Dynamics",
     "family": "supply",
@@ -3483,7 +3429,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "absolute supply year waves 0"
   },
   {
-    "id": "revived-supply-2-supply-441",
+    "id": "revived-supply-2-supply-435",
     "title": "Absolute",
     "category": "Supply Dynamics",
     "family": "supply",
@@ -3492,7 +3438,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "absolute supply revived supply 2 supply"
   },
   {
-    "id": "spent-volume-agebands-0-445",
+    "id": "spent-volume-agebands-0-439",
     "title": "Absolute",
     "category": "Supply Dynamics",
     "family": "supply",
@@ -3519,7 +3465,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "absorption rates (365-day) supply distribution absorptionrate 365"
   },
   {
-    "id": "address-count-bytxtype-0-408",
+    "id": "address-count-bytxtype-0-402",
     "title": "Addr",
     "category": "Supply Dynamics",
     "family": "supply",
@@ -3528,7 +3474,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "addr supply address count bytxtype 0"
   },
   {
-    "id": "address-count-bytxtype-1-409",
+    "id": "address-count-bytxtype-1-403",
     "title": "Addr %",
     "category": "Supply Dynamics",
     "family": "supply",
@@ -3537,7 +3483,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "addr % supply address count bytxtype 1"
   },
   {
-    "id": "revived-supply-1-supply-442",
+    "id": "revived-supply-1-supply-436",
     "title": "Age Dominance",
     "category": "Supply Dynamics",
     "family": "supply",
@@ -3546,7 +3492,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "age dominance supply revived supply 1 supply"
   },
   {
-    "id": "volume-size-1-realized-450",
+    "id": "volume-size-1-realized-444",
     "title": "BTC Dominance",
     "category": "Supply Dynamics",
     "family": "supply",
@@ -3591,7 +3537,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "long/short-term supply supply breakdown lthsth 1"
   },
   {
-    "id": "revived-supply-year-2-loss-384",
+    "id": "revived-supply-year-2-loss-378",
     "title": "Loss",
     "category": "Supply Dynamics",
     "family": "supply",
@@ -3600,7 +3546,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "loss supply revived supply year 2 loss"
   },
   {
-    "id": "revived-supply-2-loss-326",
+    "id": "revived-supply-2-loss-320",
     "title": "Loss by Age",
     "category": "Supply Dynamics",
     "family": "supply",
@@ -3618,7 +3564,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "lth supply net position change supply lthnetposchange 0"
   },
   {
-    "id": "rcap-hodlwave-bycohort-427",
+    "id": "rcap-hodlwave-bycohort-421",
     "title": "LTH/STH",
     "category": "Supply Dynamics",
     "family": "supply",
@@ -3627,7 +3573,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "lth/sth supply rcap hodlwave bycohort"
   },
   {
-    "id": "revived-supply-0-costvalue-440",
+    "id": "revived-supply-0-costvalue-434",
     "title": "Net PnL",
     "category": "Supply Dynamics",
     "family": "supply",
@@ -3636,7 +3582,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "net pnl supply revived supply 0 costvalue"
   },
   {
-    "id": "volume-size-0-costvalue-449",
+    "id": "volume-size-0-costvalue-443",
     "title": "Net PnL",
     "category": "Supply Dynamics",
     "family": "supply",
@@ -3645,7 +3591,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "net pnl supply volume size 0 costvalue"
   },
   {
-    "id": "revived-supply-year-2-costvalue-382",
+    "id": "revived-supply-year-2-costvalue-376",
     "title": "Net Realised [USD]",
     "category": "Supply Dynamics",
     "family": "supply",
@@ -3654,7 +3600,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "net realised [usd] supply revived supply year 2 costvalue"
   },
   {
-    "id": "revived-supply-year-2-profit-383",
+    "id": "revived-supply-year-2-profit-377",
     "title": "Profit",
     "category": "Supply Dynamics",
     "family": "supply",
@@ -3663,7 +3609,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "profit supply revived supply year 2 profit"
   },
   {
-    "id": "revived-supply-2-profit-325",
+    "id": "revived-supply-2-profit-319",
     "title": "Profit by Age",
     "category": "Supply Dynamics",
     "family": "supply",
@@ -3672,7 +3618,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "profit by age supply revived supply 2 profit"
   },
   {
-    "id": "rcaphodl-waves-1-426",
+    "id": "rcaphodl-waves-1-420",
     "title": "RCap (%)",
     "category": "Supply Dynamics",
     "family": "supply",
@@ -3681,7 +3627,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "rcap (%) supply rcaphodl waves 1"
   },
   {
-    "id": "rcaphodl-waves-0-425",
+    "id": "rcaphodl-waves-0-419",
     "title": "RCap (USD)",
     "category": "Supply Dynamics",
     "family": "supply",
@@ -3690,7 +3636,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "rcap (usd) supply rcaphodl waves 0"
   },
   {
-    "id": "revived-supply-0-realized-439",
+    "id": "revived-supply-0-realized-433",
     "title": "Realised",
     "category": "Supply Dynamics",
     "family": "supply",
@@ -3699,7 +3645,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "realised supply revived supply 0 realized"
   },
   {
-    "id": "volume-size-2-realized-448",
+    "id": "volume-size-2-realized-442",
     "title": "Realised",
     "category": "Supply Dynamics",
     "family": "supply",
@@ -3708,7 +3654,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "realised supply volume size 2 realized"
   },
   {
-    "id": "revived-supply-year-2-realized-381",
+    "id": "revived-supply-year-2-realized-375",
     "title": "Realised [USD]",
     "category": "Supply Dynamics",
     "family": "supply",
@@ -3717,7 +3663,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "realised [usd] supply revived supply year 2 realized"
   },
   {
-    "id": "breakdown-lthsth-pnl-1-349",
+    "id": "breakdown-lthsth-pnl-1-343",
     "title": "Relative",
     "category": "Supply Dynamics",
     "family": "supply",
@@ -3726,7 +3672,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "relative supply breakdown lthsth pnl 1"
   },
   {
-    "id": "older6m-1-423",
+    "id": "older6m-1-417",
     "title": "Relative",
     "category": "Supply Dynamics",
     "family": "supply",
@@ -3735,7 +3681,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "relative supply older6m 1"
   },
   {
-    "id": "year-waves-1-430",
+    "id": "year-waves-1-424",
     "title": "Relative",
     "category": "Supply Dynamics",
     "family": "supply",
@@ -3744,7 +3690,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "relative supply year waves 1"
   },
   {
-    "id": "spent-volume-agebands-1-446",
+    "id": "spent-volume-agebands-1-440",
     "title": "Relative",
     "category": "Supply Dynamics",
     "family": "supply",
@@ -3753,7 +3699,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "relative supply spent volume agebands 1"
   },
   {
-    "id": "revived-supply-0-supply-438",
+    "id": "revived-supply-0-supply-432",
     "title": "Revived Supply",
     "category": "Supply Dynamics",
     "family": "supply",
@@ -3780,7 +3726,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "spending supply binaryspending indicator"
   },
   {
-    "id": "supply-bytxtype-405",
+    "id": "supply-bytxtype-399",
     "title": "Supply",
     "category": "Supply Dynamics",
     "family": "supply",
@@ -3789,7 +3735,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "supply supply supply bytxtype"
   },
   {
-    "id": "breakdown-lthsth-0-435",
+    "id": "breakdown-lthsth-0-429",
     "title": "Supply",
     "category": "Supply Dynamics",
     "family": "supply",
@@ -3798,7 +3744,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "supply supply breakdown lthsth 0"
   },
   {
-    "id": "hodl-waves-0-424",
+    "id": "hodl-waves-0-418",
     "title": "Supply (BTC)",
     "category": "Supply Dynamics",
     "family": "supply",
@@ -3825,7 +3771,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "supply older than 1yr+ supply older6m 0"
   },
   {
-    "id": "volume-bysize-usd-451",
+    "id": "volume-bysize-usd-445",
     "title": "USD Dominance",
     "category": "Supply Dynamics",
     "family": "supply",
@@ -3834,7 +3780,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "usd dominance supply volume bysize usd"
   },
   {
-    "id": "utxo-count-bytxtype-0-410",
+    "id": "utxo-count-bytxtype-0-404",
     "title": "UTXO",
     "category": "Supply Dynamics",
     "family": "supply",
@@ -3843,7 +3789,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "utxo supply utxo count bytxtype 0"
   },
   {
-    "id": "utxo-count-bytxtype-1-411",
+    "id": "utxo-count-bytxtype-1-405",
     "title": "UTXO %",
     "category": "Supply Dynamics",
     "family": "supply",
@@ -3852,7 +3798,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "utxo % supply utxo count bytxtype 1"
   },
   {
-    "id": "volume-bytxtype-1-407",
+    "id": "volume-bytxtype-1-401",
     "title": "Vol %",
     "category": "Supply Dynamics",
     "family": "supply",
@@ -3861,7 +3807,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "vol % supply volume bytxtype 1"
   },
   {
-    "id": "volume-bytxtype-0-406",
+    "id": "volume-bytxtype-0-400",
     "title": "Vol USD",
     "category": "Supply Dynamics",
     "family": "supply",
@@ -3870,7 +3816,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "vol usd supply volume bytxtype 0"
   },
   {
-    "id": "volume-size-2-supply-447",
+    "id": "volume-size-2-supply-441",
     "title": "Volume",
     "category": "Supply Dynamics",
     "family": "supply",
@@ -3879,7 +3825,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "volume supply volume size 2 supply"
   },
   {
-    "id": "circulating-volume-422",
+    "id": "circulating-volume-416",
     "title": "Vs Volume",
     "category": "Supply Dynamics",
     "family": "supply",
@@ -3915,7 +3861,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "wallet waves supply distribution waves 1"
   },
   {
-    "id": "rcapyear-waves-1-432",
+    "id": "rcapyear-waves-1-426",
     "title": "Year % RCap",
     "category": "Supply Dynamics",
     "family": "supply",
@@ -3924,7 +3870,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "year % rcap supply rcapyear waves 1"
   },
   {
-    "id": "revived-supply-age-byyear-0-443",
+    "id": "revived-supply-age-byyear-0-437",
     "title": "Year BTC",
     "category": "Supply Dynamics",
     "family": "supply",
@@ -3933,7 +3879,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "year btc supply revived supply age byyear 0"
   },
   {
-    "id": "rcapyear-waves-0-431",
+    "id": "rcapyear-waves-0-425",
     "title": "Year RCap",
     "category": "Supply Dynamics",
     "family": "supply",
@@ -3942,7 +3888,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "year rcap supply rcapyear waves 0"
   },
   {
-    "id": "revived-supply-year-byyear-0-433",
+    "id": "revived-supply-year-byyear-0-427",
     "title": "Year Revived BTC",
     "category": "Supply Dynamics",
     "family": "supply",
@@ -3951,7 +3897,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "year revived btc supply revived supply year byyear 0"
   },
   {
-    "id": "revived-supply-year-byyear-1-434",
+    "id": "revived-supply-year-byyear-1-428",
     "title": "Year Revived USD",
     "category": "Supply Dynamics",
     "family": "supply",
@@ -3960,7 +3906,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "year revived usd supply revived supply year byyear 1"
   },
   {
-    "id": "revived-supply-age-byyear-1-444",
+    "id": "revived-supply-age-byyear-1-438",
     "title": "Year USD",
     "category": "Supply Dynamics",
     "family": "supply",
@@ -3969,7 +3915,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "year usd supply revived supply age byyear 1"
   },
   {
-    "id": "technical-drawdowns-1-456",
+    "id": "technical-drawdowns-1-450",
     "title": "$ ATH",
     "category": "Technical",
     "family": "technical",
@@ -3978,7 +3924,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "$ ath technical technical drawdowns 1"
   },
   {
-    "id": "technical-rsi14-1m-482",
+    "id": "technical-rsi14-1m-476",
     "title": "1-month",
     "category": "Technical",
     "family": "technical",
@@ -3987,7 +3933,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "1-month technical technical rsi14 1m"
   },
   {
-    "id": "technical-rsi14-1w-481",
+    "id": "technical-rsi14-1w-475",
     "title": "1-week",
     "category": "Technical",
     "family": "technical",
@@ -3996,7 +3942,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "1-week technical technical rsi14 1w"
   },
   {
-    "id": "technical-dailypriceperformance-3m-0-467",
+    "id": "technical-dailypriceperformance-3m-0-461",
     "title": "3M",
     "category": "Technical",
     "family": "technical",
@@ -4005,7 +3951,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "3m technical technical dailypriceperformance 3m 0"
   },
   {
-    "id": "technical-dailypriceperformance-3m-1-472",
+    "id": "technical-dailypriceperformance-3m-1-466",
     "title": "3M",
     "category": "Technical",
     "family": "technical",
@@ -4032,7 +3978,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "bollinger bands technical technical bollingerbands 20"
   },
   {
-    "id": "seasonality-bymonth-bars-btc-474",
+    "id": "seasonality-bymonth-bars-btc-468",
     "title": "BTC By Month",
     "category": "Technical",
     "family": "technical",
@@ -4050,7 +3996,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "bull market correction drawdowns technical technical drawdowns bull"
   },
   {
-    "id": "technical-epochcycle-price-1-458",
+    "id": "technical-epochcycle-price-1-452",
     "title": "Cycle Low",
     "category": "Technical",
     "family": "technical",
@@ -4059,7 +4005,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "cycle low technical technical epochcycle price -1"
   },
   {
-    "id": "technical-epochcycle-price-1-459",
+    "id": "technical-epochcycle-price-1-453",
     "title": "Cycle Top",
     "category": "Technical",
     "family": "technical",
@@ -4077,7 +4023,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "drawdowns from ath technical technical drawdowns 0"
   },
   {
-    "id": "technical-epochcycle-price-0-457",
+    "id": "technical-epochcycle-price-0-451",
     "title": "Halving",
     "category": "Technical",
     "family": "technical",
@@ -4086,7 +4032,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "halving technical technical epochcycle price 0"
   },
   {
-    "id": "technical-intradaypriceperformance-1-461",
+    "id": "technical-intradaypriceperformance-1-455",
     "title": "Intra [%]",
     "category": "Technical",
     "family": "technical",
@@ -4095,7 +4041,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "intra [%] technical technical intradaypriceperformance 1"
   },
   {
-    "id": "technical-intradaypriceperformance-0-460",
+    "id": "technical-intradaypriceperformance-0-454",
     "title": "Intra [USD]",
     "category": "Technical",
     "family": "technical",
@@ -4104,7 +4050,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "intra [usd] technical technical intradaypriceperformance 0"
   },
   {
-    "id": "market-cap-463",
+    "id": "market-cap-457",
     "title": "Market Cap",
     "category": "Technical",
     "family": "technical",
@@ -4158,7 +4104,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "rsi-14 technical technical rsi14 1d"
   },
   {
-    "id": "technical-choppinessindex-483",
+    "id": "technical-choppinessindex-477",
     "title": "Technical Choppinessindex",
     "category": "Technical",
     "family": "technical",
@@ -4167,7 +4113,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "technical choppinessindex technical technical choppinessindex"
   },
   {
-    "id": "technical-dailypriceperformance-1d-0-464",
+    "id": "technical-dailypriceperformance-1d-0-458",
     "title": "Technical Dailypriceperformance 1d 0",
     "category": "Technical",
     "family": "technical",
@@ -4176,7 +4122,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "technical dailypriceperformance 1d 0 technical technical dailypriceperformance 1d 0"
   },
   {
-    "id": "technical-dailypriceperformance-1d-1-469",
+    "id": "technical-dailypriceperformance-1d-1-463",
     "title": "Technical Dailypriceperformance 1d 1",
     "category": "Technical",
     "family": "technical",
@@ -4185,7 +4131,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "technical dailypriceperformance 1d 1 technical technical dailypriceperformance 1d 1"
   },
   {
-    "id": "technical-dailypriceperformance-1m-0-466",
+    "id": "technical-dailypriceperformance-1m-0-460",
     "title": "Technical Dailypriceperformance 1m 0",
     "category": "Technical",
     "family": "technical",
@@ -4194,7 +4140,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "technical dailypriceperformance 1m 0 technical technical dailypriceperformance 1m 0"
   },
   {
-    "id": "technical-dailypriceperformance-1m-1-471",
+    "id": "technical-dailypriceperformance-1m-1-465",
     "title": "Technical Dailypriceperformance 1m 1",
     "category": "Technical",
     "family": "technical",
@@ -4203,7 +4149,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "technical dailypriceperformance 1m 1 technical technical dailypriceperformance 1m 1"
   },
   {
-    "id": "technical-dailypriceperformance-1w-0-465",
+    "id": "technical-dailypriceperformance-1w-0-459",
     "title": "Technical Dailypriceperformance 1w 0",
     "category": "Technical",
     "family": "technical",
@@ -4212,7 +4158,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "technical dailypriceperformance 1w 0 technical technical dailypriceperformance 1w 0"
   },
   {
-    "id": "technical-dailypriceperformance-1w-1-470",
+    "id": "technical-dailypriceperformance-1w-1-464",
     "title": "Technical Dailypriceperformance 1w 1",
     "category": "Technical",
     "family": "technical",
@@ -4221,7 +4167,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "technical dailypriceperformance 1w 1 technical technical dailypriceperformance 1w 1"
   },
   {
-    "id": "technical-dailypriceperformance-1y-0-468",
+    "id": "technical-dailypriceperformance-1y-0-462",
     "title": "Technical Dailypriceperformance 1y 0",
     "category": "Technical",
     "family": "technical",
@@ -4230,7 +4176,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "technical dailypriceperformance 1y 0 technical technical dailypriceperformance 1y 0"
   },
   {
-    "id": "technical-dailypriceperformance-1y-1-473",
+    "id": "technical-dailypriceperformance-1y-1-467",
     "title": "Technical Dailypriceperformance 1y 1",
     "category": "Technical",
     "family": "technical",
@@ -4284,7 +4230,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "technical table monthlyperf price technical technical table monthlyperf price"
   },
   {
-    "id": "technical-bollingerbands-140-480",
+    "id": "technical-bollingerbands-140-474",
     "title": "Weekly",
     "category": "Technical",
     "family": "technical",
@@ -4293,7 +4239,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "weekly technical technical bollingerbands 140"
   },
   {
-    "id": "yoy-performance-462",
+    "id": "yoy-performance-456",
     "title": "YoY Perf",
     "category": "Technical",
     "family": "technical",
@@ -4302,7 +4248,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "yoy perf technical yoy performance"
   },
   {
-    "id": "correlations-btc-30-486",
+    "id": "correlations-btc-30-480",
     "title": "30d",
     "category": "Tradfi",
     "family": "tradfi",
@@ -4311,7 +4257,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "30d tradfi correlations btc 30"
   },
   {
-    "id": "correlations-btc-365-488",
+    "id": "correlations-btc-365-482",
     "title": "365d",
     "category": "Tradfi",
     "family": "tradfi",
@@ -4320,7 +4266,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "365d tradfi correlations btc 365"
   },
   {
-    "id": "tradfi-btc-vs-mag7-sortino1825-524",
+    "id": "tradfi-btc-vs-mag7-sortino1825-518",
     "title": "5yr Sortino",
     "category": "Tradfi",
     "family": "tradfi",
@@ -4329,7 +4275,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "5yr sortino tradfi tradfi btc vs mag7 sortino1825"
   },
   {
-    "id": "correlations-btc-90-487",
+    "id": "correlations-btc-90-481",
     "title": "90d",
     "category": "Tradfi",
     "family": "tradfi",
@@ -4356,7 +4302,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "avg australian house price tradfi tradfi aussiehousepricesbtc statista"
   },
   {
-    "id": "tradfi-bxy-indexexchangerate-btc-492",
+    "id": "tradfi-bxy-indexexchangerate-btc-486",
     "title": "BXY Index!",
     "category": "Tradfi",
     "family": "tradfi",
@@ -4365,7 +4311,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "bxy index! tradfi tradfi bxy indexexchangerate btc"
   },
   {
-    "id": "tradfi-btc-vs-mag7-price-byyear-522",
+    "id": "tradfi-btc-vs-mag7-price-byyear-516",
     "title": "By Year",
     "category": "Tradfi",
     "family": "tradfi",
@@ -4374,7 +4320,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "by year tradfi tradfi btc vs mag7 price byyear"
   },
   {
-    "id": "tradfi-btc-vs-tradfi-drawdown-365-526",
+    "id": "tradfi-btc-vs-tradfi-drawdown-365-520",
     "title": "Drawdown (365d)",
     "category": "Tradfi",
     "family": "tradfi",
@@ -4383,7 +4329,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "drawdown (365d) tradfi tradfi btc vs tradfi drawdown 365"
   },
   {
-    "id": "tradfi-btc-vs-tradfi-drawdown-0-525",
+    "id": "tradfi-btc-vs-tradfi-drawdown-0-519",
     "title": "Drawdown (ATH)",
     "category": "Tradfi",
     "family": "tradfi",
@@ -4392,7 +4338,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "drawdown (ath) tradfi tradfi btc vs tradfi drawdown 0"
   },
   {
-    "id": "gold-drawdowns-bull-503",
+    "id": "gold-drawdowns-bull-497",
     "title": "Drawdowns",
     "category": "Tradfi",
     "family": "tradfi",
@@ -4401,7 +4347,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "drawdowns tradfi gold drawdowns bull"
   },
   {
-    "id": "performancebyyear-dxy-479",
+    "id": "performancebyyear-dxy-473",
     "title": "DXY",
     "category": "Tradfi",
     "family": "tradfi",
@@ -4410,7 +4356,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "dxy tradfi performancebyyear dxy"
   },
   {
-    "id": "gold-yields-dxy-505",
+    "id": "gold-yields-dxy-499",
     "title": "DXY & 10y",
     "category": "Tradfi",
     "family": "tradfi",
@@ -4419,7 +4365,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "dxy & 10y tradfi gold yields dxy"
   },
   {
-    "id": "gold-etfs-0-508",
+    "id": "gold-etfs-0-502",
     "title": "ETF Balance",
     "category": "Tradfi",
     "family": "tradfi",
@@ -4428,7 +4374,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "etf balance tradfi gold etfs 0"
   },
   {
-    "id": "gold-etfs-1-509",
+    "id": "gold-etfs-1-503",
     "title": "ETF Flows",
     "category": "Tradfi",
     "family": "tradfi",
@@ -4437,7 +4383,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "etf flows tradfi gold etfs 1"
   },
   {
-    "id": "forexpricedingold-493",
+    "id": "forexpricedingold-487",
     "title": "Fiat vs Gold!",
     "category": "Tradfi",
     "family": "tradfi",
@@ -4446,7 +4392,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "fiat vs gold! tradfi forexpricedingold"
   },
   {
-    "id": "forexpricedinusd-529",
+    "id": "forexpricedinusd-523",
     "title": "Forex",
     "category": "Tradfi",
     "family": "tradfi",
@@ -4455,7 +4401,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "forex tradfi forexpricedinusd"
   },
   {
-    "id": "performancebyyear-gold-476",
+    "id": "performancebyyear-gold-470",
     "title": "Gold",
     "category": "Tradfi",
     "family": "tradfi",
@@ -4464,7 +4410,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "gold tradfi performancebyyear gold"
   },
   {
-    "id": "gold-30-519",
+    "id": "gold-30-513",
     "title": "Gold 30",
     "category": "Tradfi",
     "family": "tradfi",
@@ -4473,7 +4419,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "gold 30 tradfi gold 30"
   },
   {
-    "id": "gold-90-520",
+    "id": "gold-90-514",
     "title": "Gold 90",
     "category": "Tradfi",
     "family": "tradfi",
@@ -4482,7 +4428,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "gold 90 tradfi gold 90"
   },
   {
-    "id": "gold-0-518",
+    "id": "gold-0-512",
     "title": "Gold ATH",
     "category": "Tradfi",
     "family": "tradfi",
@@ -4491,7 +4437,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "gold ath tradfi gold 0"
   },
   {
-    "id": "gold-mayermultiple-502",
+    "id": "gold-mayermultiple-496",
     "title": "Mayer Multiple",
     "category": "Tradfi",
     "family": "tradfi",
@@ -4500,7 +4446,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "mayer multiple tradfi gold mayermultiple"
   },
   {
-    "id": "performancebyyear-ndq-478",
+    "id": "performancebyyear-ndq-472",
     "title": "NDQ",
     "category": "Tradfi",
     "family": "tradfi",
@@ -4509,7 +4455,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "ndq tradfi performancebyyear ndq"
   },
   {
-    "id": "ndq-30-516",
+    "id": "ndq-30-510",
     "title": "NDQ 30",
     "category": "Tradfi",
     "family": "tradfi",
@@ -4518,7 +4464,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "ndq 30 tradfi ndq 30"
   },
   {
-    "id": "ndq-90-517",
+    "id": "ndq-90-511",
     "title": "NDQ 90",
     "category": "Tradfi",
     "family": "tradfi",
@@ -4527,7 +4473,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "ndq 90 tradfi ndq 90"
   },
   {
-    "id": "ndq-0-515",
+    "id": "ndq-0-509",
     "title": "NDQ ATH",
     "category": "Tradfi",
     "family": "tradfi",
@@ -4536,7 +4482,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "ndq ath tradfi ndq 0"
   },
   {
-    "id": "tradfi-btc-vs-tradfi-rollingperformance365-528",
+    "id": "tradfi-btc-vs-tradfi-rollingperformance365-522",
     "title": "Performance (365d)",
     "category": "Tradfi",
     "family": "tradfi",
@@ -4545,7 +4491,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "performance (365d) tradfi tradfi btc vs tradfi rollingperformance365"
   },
   {
-    "id": "tradfi-btc-vs-tradfi-rollingperformance90-527",
+    "id": "tradfi-btc-vs-tradfi-rollingperformance90-521",
     "title": "Performance (90d)",
     "category": "Tradfi",
     "family": "tradfi",
@@ -4554,7 +4500,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "performance (90d) tradfi tradfi btc vs tradfi rollingperformance90"
   },
   {
-    "id": "performancebyyear-bitcoin-475",
+    "id": "performancebyyear-bitcoin-469",
     "title": "Performancebyyear Bitcoin",
     "category": "Tradfi",
     "family": "tradfi",
@@ -4563,7 +4509,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "performancebyyear bitcoin tradfi performancebyyear bitcoin"
   },
   {
-    "id": "gold-regional-0-510",
+    "id": "gold-regional-0-504",
     "title": "Regional Balance",
     "category": "Tradfi",
     "family": "tradfi",
@@ -4572,7 +4518,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "regional balance tradfi gold regional 0"
   },
   {
-    "id": "gold-regional-1-511",
+    "id": "gold-regional-1-505",
     "title": "Regional Flows",
     "category": "Tradfi",
     "family": "tradfi",
@@ -4581,7 +4527,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "regional flows tradfi gold regional 1"
   },
   {
-    "id": "relativestrength-504",
+    "id": "relativestrength-498",
     "title": "Since 2020",
     "category": "Tradfi",
     "family": "tradfi",
@@ -4590,7 +4536,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "since 2020 tradfi relativestrength"
   },
   {
-    "id": "tradfi-btc-vs-mag7-price-sincedate-2020-01-01-521",
+    "id": "tradfi-btc-vs-mag7-price-sincedate-2020-01-01-515",
     "title": "Since 2020",
     "category": "Tradfi",
     "family": "tradfi",
@@ -4599,7 +4545,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "since 2020 tradfi tradfi btc vs mag7 price sincedate 2020-01-01"
   },
   {
-    "id": "performancebyyear-spx-477",
+    "id": "performancebyyear-spx-471",
     "title": "SPX",
     "category": "Tradfi",
     "family": "tradfi",
@@ -4608,7 +4554,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "spx tradfi performancebyyear spx"
   },
   {
-    "id": "spx-30-513",
+    "id": "spx-30-507",
     "title": "SPX 30",
     "category": "Tradfi",
     "family": "tradfi",
@@ -4617,7 +4563,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "spx 30 tradfi spx 30"
   },
   {
-    "id": "spx-90-514",
+    "id": "spx-90-508",
     "title": "SPX 90",
     "category": "Tradfi",
     "family": "tradfi",
@@ -4626,7 +4572,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "spx 90 tradfi spx 90"
   },
   {
-    "id": "spx-0-512",
+    "id": "spx-0-506",
     "title": "SPX ATH",
     "category": "Tradfi",
     "family": "tradfi",
@@ -4635,7 +4581,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "spx ath tradfi spx 0"
   },
   {
-    "id": "usdollarstrength-530",
+    "id": "usdollarstrength-524",
     "title": "USDollarstrength",
     "category": "Tradfi",
     "family": "tradfi",
@@ -4644,7 +4590,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "usdollarstrength tradfi usdollarstrength"
   },
   {
-    "id": "tradfi-btc-vs-mag7-volatility90-523",
+    "id": "tradfi-btc-vs-mag7-volatility90-517",
     "title": "Volatility",
     "category": "Tradfi",
     "family": "tradfi",
@@ -4653,7 +4599,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "volatility tradfi tradfi btc vs mag7 volatility90"
   },
   {
-    "id": "goldstrength-507",
+    "id": "goldstrength-501",
     "title": "vs Assets",
     "category": "Tradfi",
     "family": "tradfi",
@@ -4662,7 +4608,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "vs assets tradfi goldstrength"
   },
   {
-    "id": "gold-priced-spx-506",
+    "id": "gold-priced-spx-500",
     "title": "vs SPX",
     "category": "Tradfi",
     "family": "tradfi",
@@ -4671,7 +4617,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "vs spx tradfi gold priced spx"
   },
   {
-    "id": "urpd-diff-180-360",
+    "id": "urpd-diff-180-354",
     "title": "180d",
     "category": "Urpd",
     "family": "urpd",
@@ -4680,7 +4626,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "180d urpd urpd diff 180"
   },
   {
-    "id": "urpd-diff-30-358",
+    "id": "urpd-diff-30-352",
     "title": "30d",
     "category": "Urpd",
     "family": "urpd",
@@ -4689,7 +4635,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "30d urpd urpd diff 30"
   },
   {
-    "id": "urpd-diff-365-361",
+    "id": "urpd-diff-365-355",
     "title": "365d",
     "category": "Urpd",
     "family": "urpd",
@@ -4698,7 +4644,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "365d urpd urpd diff 365"
   },
   {
-    "id": "urpd-diff-90-359",
+    "id": "urpd-diff-90-353",
     "title": "90d",
     "category": "Urpd",
     "family": "urpd",
@@ -4707,7 +4653,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "90d urpd urpd diff 90"
   },
   {
-    "id": "urpd-diff-2025-03-01-357",
+    "id": "urpd-diff-2025-03-01-351",
     "title": "Diff Mar-25",
     "category": "Urpd",
     "family": "urpd",
@@ -4716,7 +4662,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "diff mar-25 urpd urpd diff 2025-03-01"
   },
   {
-    "id": "urpd-diff-2024-11-01-356",
+    "id": "urpd-diff-2024-11-01-350",
     "title": "Diff Nov-24",
     "category": "Urpd",
     "family": "urpd",
@@ -4725,7 +4671,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "diff nov-24 urpd urpd diff 2024-11-01"
   },
   {
-    "id": "urpd-cohort-355",
+    "id": "urpd-cohort-349",
     "title": "LTH/STH",
     "category": "Urpd",
     "family": "urpd",
@@ -4734,7 +4680,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "lth/sth urpd urpd cohort"
   },
   {
-    "id": "urpd-realised-cohort-363",
+    "id": "urpd-realised-cohort-357",
     "title": "LTH/STH",
     "category": "Urpd",
     "family": "urpd",
@@ -4743,7 +4689,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "lth/sth urpd urpd realised cohort"
   },
   {
-    "id": "urpd-unrealised-cohort-365",
+    "id": "urpd-unrealised-cohort-359",
     "title": "LTH/STH",
     "category": "Urpd",
     "family": "urpd",
@@ -4752,7 +4698,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "lth/sth urpd urpd unrealised cohort"
   },
   {
-    "id": "urpd-unrealised-364",
+    "id": "urpd-unrealised-358",
     "title": "Unrealised PnL",
     "category": "Urpd",
     "family": "urpd",
@@ -4761,7 +4707,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "unrealised pnl urpd urpd unrealised"
   },
   {
-    "id": "urpd-354",
+    "id": "urpd-348",
     "title": "URPD",
     "category": "Urpd",
     "family": "urpd",
@@ -4770,7 +4716,7 @@ window.CHECKONCHAIN_CHARTS = [
     "keywords": "urpd urpd urpd"
   },
   {
-    "id": "urpd-realised-362",
+    "id": "urpd-realised-356",
     "title": "USD Invested",
     "category": "Urpd",
     "family": "urpd",
